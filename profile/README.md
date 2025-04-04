@@ -10,6 +10,4 @@
 
 🧙 cs people in Bio
 
-🤫Paper Track
-
-[nature-machine-learning](https://www.nature.com/search?article_type=protocols,research,reviews&subject=machine-learning)
+🤫Paper Track: [nature-machine-learning](https://www.nature.com/search?article_type=protocols,research,reviews&subject=machine-learning)
